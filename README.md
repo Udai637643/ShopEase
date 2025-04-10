@@ -5,7 +5,7 @@ A simple full-stack E-commerce application built using **React (Frontend)** and 
 
 ## 📁 Project Structure
 ```
-EcommerceApp/
+Task/
 ├── backend/
 │   ├── controllers/
 │   ├── data/
@@ -98,8 +98,8 @@ EcommerceApp/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/ecommerce-app.git
-cd ecommerce-app
+git clone https://github.com/Udai637643/ShopEase.git
+cd Task
 ```
 
 ### 2. Install backend dependencies
@@ -154,12 +154,13 @@ backend/dist/
 - Tailwind CSS responsive UI
 
 ---
+## ScreenShots
+![Product List](https://github.com/user-attachments/assets/76ee0b78-30ff-4326-a92e-2036fac4a7a8)
+![Carts](https://github.com/user-attachments/assets/5161b87a-9fdb-4221-a3ec-9a783f48cbbe)
 
-## 📬 Contributing
 
-Feel free to fork this project, raise issues, or submit pull requests. Open to improvements or adding authentication, payment integration, or database storage!
 
----
+
 
 ## 👨‍💻 Author
 
